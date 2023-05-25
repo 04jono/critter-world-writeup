@@ -20,7 +20,7 @@ We then had to develop an interpreter for the critter programming language. Thes
 
 Finally, we designed a modern GUI in JavaFX to allow the user to interact with the world. Features included zooming, panning, and intuitive controls for clicking on critters and fast-forwarding the world simulation.
 
-In all, we implemented a simple interpreted programming language, and developed a modern and user-friendly UI for the game based on the critter language.
+In all, we implemented the parser and interpreter for a novel programming language, and developed a modern and user-friendly UI for the game based on the critter language.
 
 ## Images
 
