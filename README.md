@@ -10,13 +10,17 @@ Luke Tao
 
 ## Implementation
 
-Our first task was to design a recursive descent parser for the grammar of a "critter" programming language specified in the project spec below.
+Approximately 8000 lines of code were written from scratch.
+
+Our first task was to design and implement a recursive descent parser for the grammar of a "critter" programming language specified in the project spec below.
 
 Project spec: https://www.cs.cornell.edu/courses/cs2112/2022fa/project/project.pdf?1668394201
 
-We then had to write an interpreter for the critter programming language. These interpreted programs defined the behavior of critters in a simulated world. 
+We then had to develop an interpreter for the critter programming language. These interpreted programs defined the behavior of critters in a simulated world. 
 
 Finally, we designed a modern GUI in JavaFX to allow the user to interact with the world. Features included zooming, panning, and intuitive controls for clicking on critters and fast-forwarding the world simulation.
+
+In all, we implemented a simple interpreted programming language, and developed a modern and user-friendly UI for the game based on the critter language.
 
 ## Images
 
