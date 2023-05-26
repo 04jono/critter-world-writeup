@@ -10,7 +10,7 @@ Luke Tao
 
 ## Implementation
 
-Approximately 8000 lines of code were written from scratch.
+Approximately 8000 lines of Java source code were written from scratch.
 
 Our first task was to design and implement a recursive descent parser for the grammar of a "critter" programming language specified in the project spec below.
 
